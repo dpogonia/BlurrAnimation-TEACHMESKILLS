@@ -19,8 +19,8 @@ UIKit, Storyboard, UIVisualEffect.
 ## Run
 
 ```bash
-git clone https://github.com/dpogonia/BlurrApp-TeachMeSkills.git
-cd BlurrApp-TeachMeSkills
+git clone https://github.com/dpogonia/BlurrAnimation-TeachMeSkills.git
+cd BlurrAnimation-TeachMeSkills
 open Lesson14.xcodeproj
 ```
 
