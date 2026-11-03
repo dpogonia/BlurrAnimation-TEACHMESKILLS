@@ -19,8 +19,8 @@ UIKit, Storyboard, UIVisualEffect.
 ## Запуск
 
 ```bash
-git clone https://github.com/dpogonia/BlurrAnimation-TeachMeSkills.git
-cd BlurrAnimation-TeachMeSkills
+git clone https://github.com/dpogonia/BlurrAnimation-TEACHMESKILLS.git
+cd BlurrAnimation-TEACHMESKILLS
 open Lesson14.xcodeproj
 ```
 
